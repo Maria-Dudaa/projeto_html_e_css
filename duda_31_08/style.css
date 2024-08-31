@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box                                                                                          ;
+
+}
+header
+{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+header img
+{
+    width: 10vw;
+    margin: 2em;
+}
+
+.banner
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner img 
+{
+    border-radius: 2em;
+    -webkit-box-shadow: 2px 0px 78px 4px rgba(0,0,0,1);
+    -moz-box-shadow: 2px 0px 78px 4px rgba(0,0,0,1);
+    box-shadow: 2px 0px 78px 4px rgba(0,0,0,1);
+}
